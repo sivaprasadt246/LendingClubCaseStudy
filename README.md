@@ -27,7 +27,6 @@ Approach followed is to use following EDA techniques to derive required observat
 
 ## Conclusions
 Summary for the provided data:
-
 - ~15% of the loans are currently defaulted   
 - Highest number of loans approved are for Debt Consolidation category
 - Majority of the people who are taking loans and defaulting are living in rented and mortgaged homes
@@ -35,8 +34,8 @@ Summary for the provided data:
 - People with 10+ years of work experince applied for most of the loans. And people with 0-1 years experience are the second most category of people applied for loans.
 - Majority of the loans are A, B and C graded
 - Majority of the loans funded are within 15k
-Possible Driving Factors for loan default
 
+Possible Driving Factors for loan default
 - Loans applied for 60 months term
 - People who are in the lower income range
 - Loans for Small Businesses
