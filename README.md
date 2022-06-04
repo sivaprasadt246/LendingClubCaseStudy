@@ -19,6 +19,7 @@ Company wants to understand the driving factors (or driver variables) behind loa
 Dataset provided contains complete loan data for all loans issued through the time period 2007 t0 2011 by the financial organisation used in this project.
 
 Approach followed is to use following EDA techniques to derive required observations.
+- Data Understanding
 - Data Cleaning (Missing values, Outliers, Dropping not required data, etc)
 - Variable Analysis (Univariate, Bivariate, Multivariate)
 - Visual Analysis (Plotting - easy to derive insights)
