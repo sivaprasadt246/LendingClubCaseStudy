@@ -11,7 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-Lending Club a renowned finance company which lends loans to customers has to go through few steps before approving a loan. When the applicant drafts his or her willingness for loan, the company must check the eligibility of each customer before processing a loan. There are two types of risks associated with the bank's decision
+Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. When the applicant drafts his or her willingness for loan, the company must check the eligibility of each customer before processing a loan. There are two types of risks associated with the bank's decision
 - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
 - If the applicant is not likely to repay the loan, i.e., he/she is likely to default then approving the loan may lead to a financial loss for the company.
 
@@ -35,6 +35,10 @@ Summary for the provided data:
 - People with 10+ years of work experince applied for most of the loans. And people with 0-1 years experience are the second most category of people applied for loans.
 - Majority of the loans are A, B and C graded
 - Majority of the loans funded are within 15k
+- Highest loan amount was taken for small_business followed by debit_consolidation
+- Loan taken for 60 months has higher interest rate
+- Interest rate is in increasing order for grades A to G
+- Interest rate increase with increase in loan amount
 
 Possible Driving Factors for loan default
 - Loans applied for 60 months term
