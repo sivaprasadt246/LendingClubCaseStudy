@@ -38,18 +38,17 @@ Summary for the provided data:
 - Highest loan amount was taken for small_business followed by debit_consolidation
 - Loan taken for 60 months has higher interest rate
 - Interest rate is in increasing order for grades A to G
-- Interest rate increase with increase in loan amount
+- Interest rate increasing with increase in loan amount
+- Max installment amount defined is around 32% of monthly income
 
 Possible Driving Factors for loan default
-- Loans applied for 60 months term
-- People who are in the lower income range
-- Loans for Small Businesses
 - High Interest rate loans
 - G, F and E graded loans
-- People who have defaulted before
-- Loans being granted to the people of California
-- Number of inquiries in the last 6 months
+- Loans applied for 60 months term
+- People who are in the lower income range
 - Higher loan amount requests
+- Loans for Small Businesses
+- People who have defaulted before
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
